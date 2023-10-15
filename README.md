@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/codeigniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="codeigniter" />
 <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
