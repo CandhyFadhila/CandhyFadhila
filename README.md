@@ -23,22 +23,22 @@
 
 ## Languages and Tools Used:
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a> 
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/codeigniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="codeigniter" /> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/google%20cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp" /> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" /> </a> </p>
+<img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+<img src="https://img.shields.io/badge/codeigniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="codeigniter" />
+<img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+<img src="https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
+<img src="https://img.shields.io/badge/google%20cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp" /> 
+<img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> 
+<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> 
+<img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>  
+<img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> 
+<img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> 
+<img src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /> </p>
 
 ![Candhy's Language Status](https://github-readme-stats.vercel.app/api/top-langs?username=candhyfadhila&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
