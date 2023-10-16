@@ -1,15 +1,15 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 
-<h1 align="center">"</> HelloWorld 👋 ", I'm Candhy Fadhila Arsyad</h1>
-<h3 align="center">A passionate Web Developers from Indonesia</h3>
+<h1 align="center">console.log('HelloWorld👋'), I'm Candhy Fadhila Arsyad</h1>
+<h3 align="center">A passionate Web Developers</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://www.rtspvtltd.com/images/work/SD.gif">
 
 -   📫 How to reach me **candhy.fadhila.arsyad@gmail.com**
 
 -   🎓 Graduated from **Informatics Engineering**, under **Dian Nuswantoro University in Semarang, Central Java**.
 
--   🌐 Passionate about **Web Programming (HTML, CSS, JavaScript, & PHP), Advanced Web Programming, Software Engineering, Object-Oriented Programming,  Software Quality and Testing** with a focus on creating seamless user experiences.
+-   🌐 Passionate about **Web Programming (HTML, CSS, JavaScript, & PHP), Advanced Web Programming, Software Engineering, Object-Oriented Programming,  Software Quality and Testing** with a focus on creating a seamless user experience and working with teams.
 
 -   💼 Graduated Interned at Bangkit Academy 2022 led by Google, Tokopedia, Gojek, & Traveloka, where I honed my skills in **Cloud Computing, Cloud Security, Cloud Storage, API Development, Node.js, Google Cloud Platform (GCP)**.
 
