@@ -40,12 +40,3 @@
 <img src="https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> 
 <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> 
 <img src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /> </p>
-
-![Candhy's Language Status](https://github-readme-stats.vercel.app/api/top-langs?username=candhyfadhila&show_icons=true&locale=en&layout=compact&theme=gruvbox)
-
-![Candhy's Github Status](https://github-readme-stats.vercel.app/api?username=candhyfadhila&show_icons=true&locale=en&theme=gruvbox)
-
-
-## Streak ️‍🔥:
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candhyfadhila&theme=monokai" alt="candhyfadhila" /></p>
