@@ -9,8 +9,6 @@
 
 -   🎓 Graduated from **Informatics Engineering**, under **Dian Nuswantoro University in Semarang, Central Java**.
 
--   🌐 Passionate about **Web Programming (HTML, CSS, JavaScript, & PHP), Advanced Web Programming, Software Engineering, Object-Oriented Programming,  Software Quality and Testing** with a focus on creating a seamless user experience and working with teams.
-
 -   💼 Graduated Interned at Bangkit Academy 2022 led by Google, Tokopedia, Gojek, & Traveloka, where I honed my skills in **Cloud Computing, Cloud Security, Cloud Storage, API Development, Node.js, Google Cloud Platform (GCP)**.
 
 
