@@ -1,6 +1,6 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 
-<h1 align="center">console.log('HelloWorld👋'), I'm Candhy Fadhila Arsyad</h1>
+<h1 align="center">Hello, I'm Candhy Fadhila Arsyad</h1>
 <h3 align="center">A passionate Web Developers from Indonesia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.rtspvtltd.com/images/work/SD.gif">
